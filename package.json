@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is app for domestik uz",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adham2023/domes-backend.git"
+  },
+  "author": "Adham Muhammadjonov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adham2023/domes-backend/issues"
+  },
+  "homepage": "https://github.com/Adham2023/domes-backend#readme"
+}
